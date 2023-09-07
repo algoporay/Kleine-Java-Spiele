@@ -21,9 +21,9 @@ Das Vier Gewinnt-Spiel wurde ebenfalls von einem anderen Entwickler erstellt und
 
 ## Verwendung
 
-Um die Spiele auszuführen, folge den Anweisungen in den jeweiligen Ordnern.
+Um die Spiele auszuführen, starte die Hauptdatei "Startseite.java" und wähle das Spiel aus, das du spielen möchtest.
 
 ## Lizenz
 
-Dieses Projekt steht unter der [Lizenz] und ist frei für die persönliche Verwendung.
+Dieses Projekt steht unter der Apache License 2.0 und ist frei für die persönliche Verwendung.
 
